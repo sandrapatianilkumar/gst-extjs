@@ -1,0 +1,7 @@
+{
+    "amount": 100,
+    "gstType": "REMOVEGST",
+    "gstPercentage": 5,
+    "gstPrice": 5,
+    "netPrice": 95
+}
