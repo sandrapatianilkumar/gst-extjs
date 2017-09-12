@@ -3,6 +3,11 @@
  * calls Ext.application(). This is the ideal place to handle application launch and
  * initialization details.
  */
+
+ Ext.Loader.setConfig({
+    disableCaching: false
+});
+ 
 Ext.define('GstApp.Application', {
     extend: 'Ext.app.Application',
 
